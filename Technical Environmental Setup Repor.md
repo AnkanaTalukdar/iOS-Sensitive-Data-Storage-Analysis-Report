@@ -94,33 +94,7 @@ nano AppData/Library/Preferences/com.targetapp.config.plist
 
 ###### *Paste this exact XML block inside Nano, then save and exit (Ctrl+O, Enter, Ctrl+X):*
 
-XML
-
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
-<plist version="1.0">
-
-<dict>
-
-&#x20;   <key>Environment</key>
-
-&#x20;   <string>Production</string>
-
-&#x20;   <key>RememberMe</key>
-
-&#x20;   <true/>
-
-&#x20;   <key>BackendAPIKey</key>
-
-&#x20;   <string>AIzaSyA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6</string>
-
-</dict>
-
-</plist>
-
-
+code.py
 
 * Compile the file into an authentic iOS binary property list:
 
